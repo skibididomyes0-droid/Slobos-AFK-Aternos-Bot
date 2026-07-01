@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "childhoodsummer1.aternos.me",
-    "port": 62991,
+    "ip": "childhoodsummer.aternos.me",
+    "port": 37752,
     "version": "1.18.1",
     "try-creative": false
   },
